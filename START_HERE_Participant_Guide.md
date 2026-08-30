@@ -3,7 +3,7 @@
 **For Participants, Communities, and Curious Humans**
 
 *"Let all contribute. Let evidence decide. Let Earth and humankind come first."*
-
+> **⚠️ Honesty Disclaimer:** MEES is currently in a 90-day commentary and review period. No real-world Microclimate has yet been run. If you adopt MEES, you will be among the first. We welcome your feedback and your challenges.
 ---
 
 ## 1. What is MEES?
