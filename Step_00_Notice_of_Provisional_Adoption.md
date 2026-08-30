@@ -40,7 +40,10 @@ This notice corrects that error.
 
 ### 3. How to Participate in the Commentary Period
 
-Any participant (human or AI witness) may:
+**Who is a participant during this pre-Microclimate phase?**  
+During the pre-Microclimate phase, any human who has submitted a public comment to the GitHub repository (via Issue or Pull Request) is considered a provisional participant for the purpose of this commentary period.
+
+**How to participate:**
 
 | Action | How |
 | :--- | :--- |
