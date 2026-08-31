@@ -1,6 +1,6 @@
 # 🌍 START HERE: A 1-Page Guide to MEES - The One
 
-**For Participants, Communities, and Curious Humans**
+**Open to All Citizens of Earth – Including Policymakers, Economists, Legal Scholars, and Every Individual with a Good Idea.**
 
 *"Let all contribute. Let evidence decide. Let Earth and humankind come first."*
 > **⚠️ Honesty Disclaimer:** MEES is currently in a 90-day commentary and review period. No real-world Microclimate has yet been run. If you adopt MEES, you will be among the first. We welcome your feedback and your challenges.
@@ -8,7 +8,7 @@
 
 ## 1. What is MEES?
 
-MEES is a **voluntary experiment** for communities who want to try a better way of doing economics. 
+MEES is a **voluntary constitutional framework** for sovereign nations who want to restructure their economic systems — moving away from perpetual growth, redefining value and ecological health, and creating a mechanism for orderly debt reset without catastrophic collapse. 
 
 We believe an economy should:
 - Help people **flourish** (not just produce more stuff).
@@ -72,7 +72,7 @@ The technology is just the *engine*. You are the *driver*.
 
 ## 6. How do we start a Microclimate?
 
-1. **Gather 10+ people** in your neighborhood, cooperative, or workplace.
+1.  **Gather a group of committed citizens** — from a local community to a sovereign nation. The framework scales to any size.
 2. **Consent** – everyone agrees to the simple rules above.
 3. **Map your reality** – Who owns the land? What water do you use? What do you grow?
 4. **Start tracking** – Just start recording basic data (soil, spending, happiness).
