@@ -2,6 +2,15 @@
 ### Step 04: MEES System Model (UNIFIED ARCHITECTURE)
 **Status:** DRAFT — Connecting the Gaps  
 **Purpose:** Unify the Constitutional Foundation, World Scan, Measurement Sovereignty framework, and three Gaps into a single, coherent economic organism blueprint.
+### The Sovereign Scale Principle
+
+MEES is designed for **sovereign nations** as the primary unit of implementation. A nation has:
+- A central bank and currency.
+- Sovereign debt obligations.
+- International trade and spillover effects.
+- Fiscal and monetary policy levers.
+
+The framework applies to nations directly. Sub-national entities (cities, states, cooperatives) may adopt MEES as a local pilot, but the constitutional architecture is optimized for national-level governance. A "Microclimate" in MEES is any bounded economic organism, with **Sovereign Nations** as the primary and most consequential instance.
 ### Adoption, Not Experimentation
 
 MEES is a constitutional framework, not a field-testing program. The System Model describes how a community *could* organize its economy if it chooses to adopt the framework voluntarily. MEES does not initiate, recruit, manage, or verify such adoptions. The framework exists as a public good—available for use, challenge, and improvement by anyone.
