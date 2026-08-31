@@ -2,6 +2,11 @@
 ### Step 04: MEES System Model (UNIFIED ARCHITECTURE)
 **Status:** DRAFT — Connecting the Gaps  
 **Purpose:** Unify the Constitutional Foundation, World Scan, Measurement Sovereignty framework, and three Gaps into a single, coherent economic organism blueprint.
+### Adoption, Not Experimentation
+
+MEES is a constitutional framework, not a field-testing program. The System Model describes how a community *could* organize its economy if it chooses to adopt the framework voluntarily. MEES does not initiate, recruit, manage, or verify such adoptions. The framework exists as a public good—available for use, challenge, and improvement by anyone.
+
+Any community that chooses to adopt MEES does so at its own discretion, with full awareness that no real-world Microclimate has yet been run (as stated in the Participant Guide). MEES provides the constitutional architecture; the community provides the agency, consent, and local adaptation.
 
 ---
 
