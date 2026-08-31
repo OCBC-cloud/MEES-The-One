@@ -8,7 +8,7 @@
 
 **PREAMBLE**
 
-Whereas MEES exists as an open human experiment, AI-native in execution, and stewardship-bound to SDS; and whereas the rapid deployment of autonomous systems risks obscuring accountability, manufacturing consent, or bypassing human judgment;
+Whereas MEES exists as an open constitutional framework, AI-native in execution, and stewardship-bound to SDS; and whereas the rapid deployment of autonomous systems risks obscuring accountability, manufacturing consent, or bypassing human judgment;
 
 We hereby establish this Constitution as the immutable boundary within which all MEES activities—human, AI, and hybrid—shall operate.
 
